@@ -1,6 +1,6 @@
 {
   "CONTRACT_ADDRESS": "0xc939a3Ad816C48ee2C274caB8B01Ab16EB5ca1f0",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xc939a3ad816c48ee2c274cab8b01ab16eb5ca1f0",
+  "SCAN_LINK": "https://polygonscan.com/address/0xc939a3ad816c48ee2c274cab8b01ab16eb5ca1f0",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -10,7 +10,7 @@
   "SYMBOL": "SZ",
   "MAX_SUPPLY": 300,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 12,
+  "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "OPENSEA ",
   "MARKETPLACE_LINK": "https://opensea.io/collection/shroomzoo",
