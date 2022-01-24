@@ -1,9 +1,9 @@
 :root {
-  --primary: #ebc908;
+  --primary: #22c8e5;
   --primary-text: #ffffff;
-  --secondary: #22C8E5;
+  --secondary: #22c8e5;
   --secondary-text: #ffffff;
-  --accent: #505050;
+  --accent: #4c4c4c4f;
   --accent-text: #ffffff;
 }
 
@@ -11,7 +11,7 @@
   background: linear-gradient(
     90deg
     , rgb(34, 200, 229) 0%, rgba(34, 200, 229, 0.5) 100%) !important;
-        font-family: "Nunito Sans" !important;
+        font-family: font-family: system-ui; !important;
         display: inline-block !important;
         height: auto !important;
         width: auto !important;
@@ -23,7 +23,7 @@
         max-height: none;
         max-width: none;
         text-align: left;
-        line-height: 60px;
+        line-height: 30px;
         letter-spacing: 0px;
         font-weight: 600;
         font-size: 17px;
@@ -37,5 +37,10 @@
         transform: translate(0px, 0px);
         visibility: visible;
         border-width: 0px;
-        border-radius: 0px;
+        border-radius: 0px !important;
+        text-transform: capitalize !important;
+}
+
+button {
+  text-transform: capitalize !important;
 }
