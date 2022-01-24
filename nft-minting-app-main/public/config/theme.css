@@ -8,10 +8,8 @@
 }
 
 .gVgCKA {
-  background: linear-gradient(
-    90deg
-    , rgb(34, 200, 229) 0%, rgba(34, 200, 229, 0.5) 100%) !important;
-        font-family: font-family: system-ui; !important;
+  background: linear-gradient(90deg, rgb(34, 200, 229) 0%, rgba(34, 200, 229, 0.5) 100%) !important;
+        font-family: system-ui !important;
         display: inline-block !important;
         height: auto !important;
         width: auto !important;
