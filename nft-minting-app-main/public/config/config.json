@@ -10,9 +10,9 @@
   "SYMBOL": "SZ",
   "MAX_SUPPLY": 300,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 12,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "OPENSEA ",
   "MARKETPLACE_LINK": "https://opensea.io/collection/shroomzoo",
   "SHOW_BACKGROUND": true
 }
