@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xc939a3Ad816C48ee2C274caB8B01Ab16EB5ca1f0",
-  "SCAN_LINK": "https://polygonscan.com/address/0xc939a3ad816c48ee2c274cab8b01ab16eb5ca1f0",
+  "CONTRACT_ADDRESS": "0x31f219331ee8C2fBC8f4A6A198Cbf10e0B51D621",
+  "SCAN_LINK": "https://polygonscan.com/token/0x31f219331ee8C2fBC8f4A6A198Cbf10e0B51D621",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -9,10 +9,10 @@
   "NFT_NAME": "ShroomZoo",
   "SYMBOL": "SZ",
   "MAX_SUPPLY": 300,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "OPENSEA ",
+  "MARKETPLACE": "OPENSEA",
   "MARKETPLACE_LINK": "https://opensea.io/collection/shroomzoo",
   "SHOW_BACKGROUND": true
 }
